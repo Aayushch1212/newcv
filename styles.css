@@ -76,15 +76,15 @@ padding: 50px 0 20px;
 }
 .txtoverimga{
     position:absolute;
-    left: 400px;
+    left: 25%;
 }
 .txtoverimgb{
     position:absolute;
-    left: 700px;
+    left: 45%;
 }
 .txtoverimgc{
     position:absolute;
-    left: 1000px;
+    left: 70%;
 }
 .loremipsum{
     margin-left: 40%;
@@ -100,7 +100,7 @@ padding: 50px 0 20px;
     line-height: 2;
 }
 .text{
-    margin-left: 100px;
+    margin-left: 10%;
     text-align: left;
 }
 /* .srcimg{
